@@ -113,32 +113,28 @@
 
 <div class="py-16">
     <h1 class=" text-4xl mb-10 text-center font-bold">আমাদের পণ্য নিয়ে গ্রাহকদের অভিজ্ঞতা</h1>
-    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 gap-10  ml-[15%] mr-[15%]">
-    <div class="bg-green-800 text-white  rounded-lg flex flex-col  ">
-        <p class="text-3xl font-bold p-8" >সন্তুষ্ট গ্রাহক</p>
-        <h1 class="text-yellow-400 text-5xl text-right ml-auto font-bold p-8">৩,০০০+</h1>
-        <h5 class="mt-10 border-t-2 border-white box-border pt-4 p-8">সন্তুষ্ট গ্রাহকরা আমাদের পণ্যের প্রতি বিশ্বাস রেখেছেন।</h5>
+    <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols- gap-10 ml-[5%] mr-[5%]">
+    <div class="bg-green-800 text-white rounded-lg flex flex-col h-[220px] w-[350px] sm:w-[380px] lg:w-[450px]">
+        <p class="text-3xl font-bold p-3">সন্তুষ্ট গ্রাহক</p>
+        <h1 class="text-yellow-400 text-5xl text-right ml-auto font-bold p-3">৩,০০০+</h1>
+        <h5 class="mt-10 border-t-2 border-white box-border pt-4 p-3">সন্তুষ্ট গ্রাহকরা আমাদের পণ্যের প্রতি বিশ্বাস রেখেছেন।</h5>
     </div>
-    <div class="bg-green-800 text-white rounded-lg flex flex-col">
-        <p class="text-3xl font-bold p-8">পুনঃক্রয়কারী</p>
-        <h1 class="text-yellow-400 text-5xl text-right ml-auto font-bold p-8">৪০০+</h1>
-        <h5 class="mt-10 border-t-2 border-white box-border pt-4 p-8">পুনঃক্রয় করে আমাদের গুণমান নিশ্চিত করে।</h5>
+    <div class="bg-green-800 text-white rounded-lg flex flex-col h-[220px] w-[350px] sm:w-[380px] lg:w-[450px]">
+        <p class="text-3xl font-bold p-3">পুনঃক্রয়কারী</p>
+        <h1 class="text-yellow-400 text-5xl text-right ml-auto font-bold p-3">৪০০+</h1>
+        <h5 class="mt-10 border-t-2 border-white box-border pt-4 p-3">পুনঃক্রয় করে আমাদের গুণমান নিশ্চিত করে।</h5>
     </div>
-    <div class="bg-green-800 text-white  rounded-lg flex flex-col">
-        <p class="text-3xl font-bold p-8">পণ্য বিক্রি</p>
-        <h1 class="text-yellow-400 text-5xl text-right ml-auto font-bold p-8">৫০০০+</h1>
-        <h5 class="mt-10 border-t-2 border-white box-border pt-4 p-8">৫০০০ পণ্যের বিক্রি আমাদের জনপ্রিয়তা প্রমাণ করে।</h5>
+    <div class="bg-green-800 text-white rounded-lg flex flex-col h-[220px] w-[350px] sm:w-[380px] lg:w-[450px]">
+        <p class="text-3xl font-bold p-3">পণ্য বিক্রি</p>
+        <h1 class="text-yellow-400 text-5xl text-right ml-auto font-bold p-3">৫০০০+</h1>
+        <h5 class="mt-10 border-t-2 border-white box-border pt-4 p-3">৫০০০ পণ্যের বিক্রি আমাদের জনপ্রিয়তা প্রমাণ করে।</h5>
     </div>
-    <div class="bg-green-800 text-white  rounded-lg flex flex-col">
-    <p class="text-3xl font-bold p-8">গ্রাহক সন্তুষ্ট</p>
-    <h1 class="text-yellow-400 text-5xl text-right ml-auto font-bold p-8">৯৫%</h1>
-    <h5 class="mt-10 border-t-2 border-white box-border pt-4 p-8">৯৫% গ্রাহক আমাদের সেবা ও পণ্যে সন্তুষ্ট।</h5>
+    <div class="bg-green-800 text-white rounded-lg flex flex-col h-[220px] w-[350px] sm:w-[380px] lg:w-[450px]">
+        <p class="text-3xl font-bold p-3">গ্রাহক সন্তুষ্ট</p>
+        <h1 class="text-yellow-400 text-5xl text-right ml-auto font-bold p-3">৯৫%</h1>
+        <h5 class="mt-10 border-t-2 border-white box-border pt-4 p-8">৯৫% গ্রাহক আমাদের সেবা ও পণ্যে সন্তুষ্ট।</h5>
+    </div>
 </div>
-
-
-</div>
-
-
 
     <div class="flex justify-center items-center h-24 mt-12 pb-8">
         <button class="bg-green-800 text-yellow-400 px-8 py-4 flex items-center justify-center text-lg font-medium rounded-xl transition-colors duration-300 hover:bg-blue-900">
